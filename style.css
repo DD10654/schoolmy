@@ -1,0 +1,85 @@
+body
+{
+	text-align: center;
+}
+
+marquee
+{
+
+	font-size: 25px;
+	padding-bottom: 200px;
+}
+
+
+section
+{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.line
+{
+	height: 6px;
+	width: 728px;
+	background-color: black;
+	margin: 8px auto;
+}
+
+#myNavbar
+{
+	position: sticky;
+	top: 0;
+	z-index: 99999;
+}
+
+#campus
+{
+	padding-bottom: 800px
+}
+
+.env_li
+{
+	margin-top: 13px;
+}
+
+.env_li h4
+{
+	border-bottom: 1px solid white;
+	padding: 8px;
+}
+
+.env_li img
+{
+	border-radius: 25px;
+}
+
+.env_li p
+{
+	margin-top: 10px;
+}
+
+.movie_head { 
+	font-size: 20px; 
+	padding: 6px 22px; 
+	border-radius: 10px; 
+	margin-bottom: 15px; 
+	width: 100%; 
+	display: inline-block; 
+}
+
+.movie_head i { 
+	float: right; 
+
+}
+
+.movie_text span { 
+	color: #ff7700; }
+
+.header 
+{ line-height: 2; } 
+
+.modal-content { margin-top: 100px; }
+ 
+.modal-body 
+{ text-align: center }
+
